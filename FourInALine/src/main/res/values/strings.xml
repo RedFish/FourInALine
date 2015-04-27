@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Four In A Line</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="one_player_btn">1 player</string>
+    <string name="two_player_btn">2 players</string>
+    <string name="online_btn">Online</string>
+    <string name="about_btn">About</string>
+    <string name="difficulty_question">Pick a difficulty</string>
+
+    <string-array name="difficulties">
+        <item>Beginner</item>
+        <item>Intermediate</item>
+        <item>Advanced</item>
+    </string-array>
+
+    <string name="app_credits">This project was realised in 2013 for CS385 - Mobile Application Development at National University of Ireland, Maynooth.\n\nThe authors of this project are Richard GUERCI and Julien SIERRA, Erasmus students from TELECOM Nancy, France.\n\nVersion 1.0\n</string>
+    <string name="title_activity_session">Choose a session</string>
+    <string name="add_btn">Create session</string>
+    <string name="refresh_btn">Refresh</string>
+    <string name="player_name">Your name</string>
+    <string name="session_name">Name of the session</string>
+    <string name="cancel">Cancel</string>
+    <string name="create">Create</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="creating">Creating&#8230;</string>
+    <string name="joining">Joining&#8230;</string>
+    <string name="title_activity_end">Game over</string>
+    <string name="game_over_text">Congratulations!</string>
+    <color name="green">#98D19F</color>
+    <string name="switch_sound">switch the sound on off</string>
+
+</resources>
