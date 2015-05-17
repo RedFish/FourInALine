@@ -10,3 +10,4 @@ Developed by Richard GUERCI and Julien SIERRA - National University of Ireland, 
   
 ![ScreenShot1](https://raw.github.com/RedFish/FourInALine/master/Screenshots/Screenshot_1.png)
 ![ScreenShot2](https://raw.github.com/RedFish/FourInALine/master/Screenshots/Screenshot_2.png)
+![ScreenShot3](https://raw.github.com/RedFish/FourInALine/master/Screenshots/Screenshot_3.png)
